@@ -10,7 +10,9 @@
 
 
 Il progetto consiste nell'automatizzare un processo produttivo mediante l'utilizzo di robot antropomorfi che è caratterizzato da tre fasi:
-Macchina 1 di sgrossatura,Controllo Qualità e Macchina 2 di rifinitura.
+Macchina 1 di sgrossatura,
+Controllo Qualità,
+Macchina 2 di rifinitura.
 
 Nelle suguenti immagini vengono riassunte le informazioni principali delle scelte effettuate per quanto riguarda i robot i gripper e il layout della cella per ulteriori informazioni di rimanda alla relazione redatta che si trova:  <a href="https://github.com/EdoGitMira/ABB_RobotStudio_Magistrale/blob/main/GRUPPO2_relazione.pdf" target="_blank">`link-relazione`</a> 
 
