@@ -1,9 +1,13 @@
 ![Badge License]
-
-# ABB_RobotStudio_Magistrale
-il progetto consiste nell'automatizzare un processo produttivo mediante l'utilizzo di robot antropomorfi ch eè caratterizzato da tre fasi:
-
 ![1](https://user-images.githubusercontent.com/49036361/209091107-59c8ea26-3722-4e61-9def-0589fc697d90.png)
+il progetto consiste nell'automatizzare un processo produttivo mediante l'utilizzo di robot antropomorfi che è caratterizzato da tre fasi:
+- [Macchina 1 di sgrossatura]
+- [Controllo Qualità]
+- [Macchina 2 di rifinitura ]
+nelle suguenti immagini vengono riassunte le informazioni principali delle scelte effettuate per quanto riguarda i robot i gripper e il layout della cella per ulteriori informazioni di rimanda alla relazione redatta ce si trova:  <a href="" target="_blank">`link-relazione`</a> 
+
+
+
 ![10](https://user-images.githubusercontent.com/49036361/209091118-4973539d-bbf2-4e8f-83a3-5a3056484b05.png)
 ![11](https://user-images.githubusercontent.com/49036361/209091129-1841042d-df07-4020-be94-ec195bf79579.png)
 ![13](https://user-images.githubusercontent.com/49036361/209091160-b0d1628e-e29a-4cd4-a56c-a7dcbe102906.png)
